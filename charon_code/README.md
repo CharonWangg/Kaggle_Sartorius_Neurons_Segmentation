@@ -18,4 +18,4 @@
 1. cascade_finetune.ipynb用于cascade模型的finetune
 2. main_launch.ipynb是基础的模型训练文件
 3. train_swin_T.ipynb用于迁徙swin-transformer作为backbone的mask_rcnn_r_50的训练
-4. validation.ipynb用于线下的交叉验证以及测试各种后处理手段
+4. validation_v0.ipynb用于线下的交叉验证以及调参测试各种后处理手段
