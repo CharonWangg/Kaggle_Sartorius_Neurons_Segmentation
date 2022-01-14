@@ -19,3 +19,4 @@
 2. main_launch.ipynb是基础的模型训练文件
 3. train_swin_T.ipynb用于迁徙swin-transformer作为backbone的mask_rcnn_r_50的训练
 4. validation_v0.ipynb用于线下的交叉验证以及调参测试各种后处理手段
+5. 其他几个ipynb后续有空补上介绍 大致作用是模型融合后验证 模型预训练 以及最终模型融合策略，线上融合提交
